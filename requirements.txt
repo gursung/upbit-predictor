@@ -5,4 +5,4 @@ numpy
 matplotlib
 requests
 datetime
-tensorflow
+tensorflow-cpu==2.12.0
