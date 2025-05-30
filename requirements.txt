@@ -1,8 +1,7 @@
 streamlit
-scikit-learn
-pandas
 numpy
-matplotlib
-requests
-datetime
-tensorflow-cpu==2.10.0
+keras==2.13.1
+h5py
+tensorflow==2.9.1 
+pandas
+scikit-learn
