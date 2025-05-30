@@ -1,9 +1,0 @@
-streamlit
-numpy
-keras==2.13.1
-h5py
-tensorflow==2.9.1 
-pandas
-scikit-learn
-matplotlib
-pyupbit
