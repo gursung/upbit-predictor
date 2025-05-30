@@ -5,3 +5,5 @@ h5py
 tensorflow==2.9.1 
 pandas
 scikit-learn
+matplotlib
+pyupbit
